@@ -83,11 +83,6 @@
     packages = with pkgs; [];
   };
 
-  users.users.kiosk-drakari = {
-    isNormalUser = true;
-    description = "Drakari Kiosk User";
-  };
-
   # Enable automatic login for the user.
   services.getty.autologinUser = "drakari";
 
