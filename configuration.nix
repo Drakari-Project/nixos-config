@@ -51,6 +51,7 @@
     layout = "us";
     xkbVariant = "";
     enable = true;
+    autorun = false;
     # displayManager.gdm.enable = true;
     # desktopManager.gnome.enable = true;
     displayManager.startx.enable = true;

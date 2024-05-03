@@ -25,6 +25,10 @@
     initExtra = ''
       neofetch
       eval "$(zoxide init bash)"
+
+      if [ $(tty) = /dev/tty1 ]; then
+        startx
+      fi
     '';
   };
   
