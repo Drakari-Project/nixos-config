@@ -65,6 +65,7 @@
     #   org.gradle.daemon.idletimeout=3600000
     # '';
     ".xinitrc".source = dotfiles/xinitrc;
+    ".dwm/autostart.sh".source = dotfiles/dwm/autostart.sh;
   };
 
   # Home Manager can also manage your environment variables through

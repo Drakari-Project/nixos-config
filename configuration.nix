@@ -52,9 +52,25 @@
     xkbVariant = "";
     enable = true;
     autorun = false;
-    # displayManager.gdm.enable = true;
+    displayManager.gdm.enable = true;
+    displayManager.autoLogin.enable = true;
+    displayManager.autoLogin.user = "drakari";
+    windowManager.dwm.enable = true;
+    windowManager.dwm.package = pkgs.dwm.override {
+      # conf = ./dotfiles/dwm/config.h;
+      patches = [
+        (pkgs.fetchpatch {
+          url = "https://dwm.suckless.org/patches/autostart/dwm-autostart-20161205-bb3bd6f.diff";
+          hash = "sha256-CQk8fZsicZ6jaLXmxLliNSLHopQVz9XtarPhX9d/sFs=";
+        })
+        (pkgs.fetchpatch {
+          url = "https://dwm.suckless.org/patches/anybar/dwm-anybar-20200810-bb2e722.diff";
+          hash = "sha256-MoGH/dEnV1JqqY9+nDoDZ8ihzj8FX2f8574TMNKpOFA=";
+        })
+      ];
+    };
     # desktopManager.gnome.enable = true;
-    displayManager.startx.enable = true;
+    # displayManager.startx.enable = true;
   };
 
   # environment.gnome.excludePackages = (with pkgs; [
