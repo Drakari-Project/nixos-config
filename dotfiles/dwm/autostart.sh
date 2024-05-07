@@ -1,1 +1,1 @@
-emulationstation
+emulationstation && shutdown 0

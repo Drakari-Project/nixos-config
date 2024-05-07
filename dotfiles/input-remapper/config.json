@@ -1,0 +1,6 @@
+{
+    "version": "2.0.1",
+    "autoload": {
+        "xin-mo.com Xinmotek Controller": "code"
+    }
+}

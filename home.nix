@@ -66,6 +66,14 @@
     # '';
     ".xinitrc".source = dotfiles/xinitrc;
     ".dwm/autostart.sh".source = dotfiles/dwm/autostart.sh;
+    ".launchers" = {
+      source = dotfiles/launchers;
+      recursive = true;
+    };
+    ".config/input-remapper-2" = {
+      source = dotfiles/input-remapper;
+      recursive = true;
+    };
   };
 
   # Home Manager can also manage your environment variables through

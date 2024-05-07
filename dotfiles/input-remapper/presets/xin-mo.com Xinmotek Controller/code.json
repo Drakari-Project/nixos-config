@@ -1,0 +1,374 @@
+[
+    {
+        "input_combination": [
+            {
+                "type": 3,
+                "code": 1,
+                "origin_hash": "aca3f82fcf0e7ef270c55c708534a54b",
+                "analog_threshold": -1
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "i",
+        "name": "P1 Up",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 3,
+                "code": 0,
+                "origin_hash": "aca3f82fcf0e7ef270c55c708534a54b",
+                "analog_threshold": -1
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "j",
+        "name": "P1 Left",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 3,
+                "code": 0,
+                "origin_hash": "aca3f82fcf0e7ef270c55c708534a54b",
+                "analog_threshold": 1
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "l",
+        "name": "P1 Right",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 291,
+                "origin_hash": "aca3f82fcf0e7ef270c55c708534a54b"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "x",
+        "name": "P1 A",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 295,
+                "origin_hash": "aca3f82fcf0e7ef270c55c708534a54b"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "z",
+        "name": "P1 B",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 288,
+                "origin_hash": "aca3f82fcf0e7ef270c55c708534a54b"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "s",
+        "name": "P1 X",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 294,
+                "origin_hash": "aca3f82fcf0e7ef270c55c708534a54b"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "a",
+        "name": "P1 Y",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 293,
+                "origin_hash": "aca3f82fcf0e7ef270c55c708534a54b"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "w",
+        "name": "P1 R1",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 290,
+                "origin_hash": "aca3f82fcf0e7ef270c55c708534a54b"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "2",
+        "name": "P1 R2",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 292,
+                "origin_hash": "aca3f82fcf0e7ef270c55c708534a54b"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "q",
+        "name": "P1 L1",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 289,
+                "origin_hash": "aca3f82fcf0e7ef270c55c708534a54b"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "1",
+        "name": "P1 L2",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 3,
+                "code": 1,
+                "origin_hash": "aca3f82fcf0e7ef270c55c708534a54b",
+                "analog_threshold": 1
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "k",
+        "name": "P1 Down",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 297,
+                "origin_hash": "aca3f82fcf0e7ef270c55c708534a54b"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "e",
+        "name": "P1 Start",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 296,
+                "origin_hash": "aca3f82fcf0e7ef270c55c708534a54b"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "d",
+        "name": "P1 Select",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 3,
+                "code": 1,
+                "origin_hash": "4c1ad6ac108074fa7b18657e599cefec",
+                "analog_threshold": -1
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "Shift_L + i",
+        "name": "P2 Up",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 3,
+                "code": 1,
+                "origin_hash": "4c1ad6ac108074fa7b18657e599cefec",
+                "analog_threshold": 1
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "Shift_L + k",
+        "name": "P2 Down",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 3,
+                "code": 0,
+                "origin_hash": "4c1ad6ac108074fa7b18657e599cefec",
+                "analog_threshold": -1
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "Shift_L + j",
+        "name": "P2 Left",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 3,
+                "code": 0,
+                "origin_hash": "4c1ad6ac108074fa7b18657e599cefec",
+                "analog_threshold": 1
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "Shift_L + l",
+        "name": "P2 Right",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 292,
+                "origin_hash": "4c1ad6ac108074fa7b18657e599cefec"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "Shift_L + x",
+        "name": "P2 A",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 291,
+                "origin_hash": "4c1ad6ac108074fa7b18657e599cefec"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "Shift_L + z",
+        "name": "P2 B",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 288,
+                "origin_hash": "4c1ad6ac108074fa7b18657e599cefec"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "Shift_L + a",
+        "name": "P2 X",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 289,
+                "origin_hash": "4c1ad6ac108074fa7b18657e599cefec"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "Shift_L + s",
+        "name": "P2 Y",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 295,
+                "origin_hash": "4c1ad6ac108074fa7b18657e599cefec"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "Shift_L + w",
+        "name": "P2 R1",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 294,
+                "origin_hash": "4c1ad6ac108074fa7b18657e599cefec"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "Shift_L + w",
+        "name": "P2 R2",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 293,
+                "origin_hash": "4c1ad6ac108074fa7b18657e599cefec"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "Shift_L + q",
+        "name": "P2 L1",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 290,
+                "origin_hash": "4c1ad6ac108074fa7b18657e599cefec"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "Shift_L + q",
+        "name": "P2 L2",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 299,
+                "origin_hash": "4c1ad6ac108074fa7b18657e599cefec"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "Shift_L + e",
+        "name": "P2 Start",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 298,
+                "origin_hash": "4c1ad6ac108074fa7b18657e599cefec"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "Shift_L + d",
+        "name": "P2 Select",
+        "mapping_type": "key_macro"
+    }
+]

@@ -20,6 +20,7 @@
       cd = "z";
       sr = "sudo reboot";
       ssn = "sudo shutdown now";
+      relaunch = "sudo systemctl restart display-manager";
     };
 
     initExtra = ''
