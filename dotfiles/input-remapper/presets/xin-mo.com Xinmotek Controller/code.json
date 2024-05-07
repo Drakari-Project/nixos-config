@@ -9,7 +9,7 @@
             }
         ],
         "target_uinput": "keyboard",
-        "output_symbol": "i",
+        "output_symbol": "Up",
         "name": "P1 Up",
         "mapping_type": "key_macro"
     },
@@ -23,7 +23,7 @@
             }
         ],
         "target_uinput": "keyboard",
-        "output_symbol": "j",
+        "output_symbol": "Left",
         "name": "P1 Left",
         "mapping_type": "key_macro"
     },
@@ -37,7 +37,7 @@
             }
         ],
         "target_uinput": "keyboard",
-        "output_symbol": "l",
+        "output_symbol": "Right",
         "name": "P1 Right",
         "mapping_type": "key_macro"
     },
@@ -155,7 +155,7 @@
             }
         ],
         "target_uinput": "keyboard",
-        "output_symbol": "k",
+        "output_symbol": "Down",
         "name": "P1 Down",
         "mapping_type": "key_macro"
     },
@@ -315,7 +315,7 @@
             }
         ],
         "target_uinput": "keyboard",
-        "output_symbol": "Shift_L + w",
+        "output_symbol": "Shift_L + 2",
         "name": "P2 R2",
         "mapping_type": "key_macro"
     },
@@ -341,7 +341,7 @@
             }
         ],
         "target_uinput": "keyboard",
-        "output_symbol": "Shift_L + q",
+        "output_symbol": "Shift_L + 1",
         "name": "P2 L2",
         "mapping_type": "key_macro"
     },
